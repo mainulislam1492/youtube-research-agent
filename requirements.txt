@@ -1,0 +1,8 @@
+google-api-python-client
+youtube-transcript-api
+openai
+python-dotenv
+rich
+tqdm
+isodate
+requests
