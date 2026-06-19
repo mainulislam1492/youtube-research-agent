@@ -67,7 +67,7 @@ youtube-research-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/youtube-research-agent.git
+git clone https://github.com/mainulislam1492/youtube-research-agent.git
 cd youtube-research-agent
 ```
 
